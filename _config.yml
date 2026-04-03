@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # replace
+  youtube          : "mudithafernando11/playlists/playlist" # replace
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
@@ -125,7 +125,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

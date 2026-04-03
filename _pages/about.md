@@ -7,7 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior AI Engineer and Computer Vision researcher with a strong focus on representation learning, self-supervised learning, and robust feature extraction. I specialize in designing AI systems that perform reliably under domain shifts and real-world constraints. My work bridges industry deployment and cutting-edge research, making me passionate about building practical, generalizable solutions.
+I am a **AI Engineer and researcher in computer vision**, with a strong interest in:
+
+- 🔹 Representation Learning  
+- 🔹 Self-Supervised Learning  
+- 🔹 Semi-Supervised Learning  
+- 🔹 Domain Generalization  
+- 🔹 Robust Feature Learning  
+- 🔹 Real-world AI Deployment  
+
+My work focuses on **closing the gap between benchmark performance and real-world robustness**, especially in industrial and low-label environments.
+
 
 ## News
 
@@ -56,7 +66,7 @@ I am a Senior AI Engineer and Computer Vision researcher with a strong focus on 
     <td style="border: none; padding: 10px;">
 
       <b>University of Moratuwa, Sri Lanka</b><br>
-      Bachelor’s in Electronics & Telecommunication Engineering<br>
+      Bachelors in Electronic & Telecommunication Engineering<br>
       Jan 2020 – Jun 2024<br>
       GPA: 3.94/4.20
 
