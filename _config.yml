@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Muditha's Homepage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Muditha Fernando"
 description              : &description "Muditha Fernando's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/muditha11"
+  github           : "muditha11"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/muditha-fernando11d" # Username
+  linkedin         : "muditha-fernando11d" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://youtube.com/playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # replace
+  youtube          : "playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # replace
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
