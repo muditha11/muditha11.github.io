@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-# site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Muditha Fernando"
+site_theme               : "light" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Muditha's Homepage"
 title_separator          : "-"
 name                     : &name "Muditha Fernando"
 description              : &description "Muditha Fernando's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,10 +23,10 @@ repository               : "muditha11.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Muditha_Fernando.jpg"
   name             : "Muditha Fernando"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Computer Vision Researcher"
   location         : "Negombo, Sri Lanka"
   employer         : "University of Moratuwa"
   uri              : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/muditha-fernando11d" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "https://youtube.com/playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # Username
+  youtube          : "https://youtube.com/playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # replace
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
