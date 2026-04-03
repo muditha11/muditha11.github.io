@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+# site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Muditha Fernando"
 title_separator          : "-"
 name                     : &name "Muditha Fernando"
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://youtube.com/playlist?list=PLVilPUZAI9v9NjB7iQ8OWVBBndO-RsA3p&si=SRZmoEojNoqC6uyS" # Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
