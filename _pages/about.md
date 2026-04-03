@@ -66,3 +66,7 @@ I am also an AI Engineer with 3+ years of experience in the design and developme
     </td>
   </tr>
 </table>
+
+<p>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fmuditha11.github.io&count_bg=%2379C83D&title_bg=%23555555&title=Views&edge_flat=false"/>
+</p>
