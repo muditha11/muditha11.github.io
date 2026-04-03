@@ -7,16 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **AI Engineer and researcher in computer vision**, with a strong interest in:
+I am a computer vision researcher with a strong focus on representation learning, self-supervised learning, semi-supervised learning, and robust feature extraction. My work focuses on **closing the gap between benchmark performance and real-world robustness**, especially in industrial and low-label environments.
 
-- 🔹 Representation Learning  
-- 🔹 Self-Supervised Learning  
-- 🔹 Semi-Supervised Learning  
-- 🔹 Domain Generalization  
-- 🔹 Robust Feature Learning  
-- 🔹 Real-world AI Deployment  
-
-My work focuses on **closing the gap between benchmark performance and real-world robustness**, especially in industrial and low-label environments.
+I am also an AI Engineer with 3+ years of experience in the design and development of machine learning and deep learning systems for the tea industry.
 
 
 ## News
