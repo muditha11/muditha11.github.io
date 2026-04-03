@@ -9,8 +9,7 @@ redirect_from:
 
 I am a computer vision researcher with a strong focus on representation learning, self-supervised learning, semi-supervised learning, and robust feature extraction. My work focuses on **closing the gap between benchmark performance and real-world robustness**, especially in industrial and low-label environments.
 
-I am also an AI Engineer with 3+ years of experience in the design and development of machine learning and deep learning systems for the tea industry.
-
+I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaai.ai/) in design and development of machine learning and deep learning systems for the tea industry.
 
 ## News
 
