@@ -24,7 +24,7 @@ I am a Senior AI Engineer and Computer Vision researcher with a strong focus on 
     <td style="border: none; padding: 10px;">
 
       <b>Pekoe Pte Ltd, Singapore (Remote)</b><br>
-      <i>Senior AI Engineer</i><br>
+      Senior AI Engineer<br>
       Jun 2024 – Present<br>
       Supervisor: Dr. Tharindu Kaluarachchi
 
@@ -38,7 +38,7 @@ I am a Senior AI Engineer and Computer Vision researcher with a strong focus on 
     <td style="border: none; padding: 10px;">
 
       <b>Pekoe Pte Ltd, Singapore (Remote)</b><br>
-      <i>AI Engineer Intern</i><br>
+      AI Engineer Intern<br>
       Jan 2023 – Jul 2023<br>
       Supervisor: Dr. Tharindu Kaluarachchi
 
