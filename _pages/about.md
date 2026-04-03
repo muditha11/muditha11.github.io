@@ -11,7 +11,7 @@ I am a Senior AI Engineer and Computer Vision researcher with a strong focus on 
 
 ## News
 
-- [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR 2026
+- [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR'26
 
 
 ## Experience
