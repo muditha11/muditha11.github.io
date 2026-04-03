@@ -16,31 +16,50 @@ I am a Senior AI Engineer and Computer Vision researcher with a strong focus on 
 
 ## Experience
 
-<table> <tr> <td width="120"> <img src="/images/Pekoe.png" width="100"> </td> <td>
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 10px;" width="150">
+      <img src="/images/Pekoe.png" width="140">
+    </td>
+    <td style="border: none; padding: 10px;">
 
-Pekoe Pte Ltd, Singapore (Remote)</br>
-Senior AI Engineer</br>
-Jun 2024 – Present</br>
-Supervisor: Dr.Tharindu Kaluarachchi
+      <b>Pekoe Pte Ltd, Singapore (Remote)</b><br>
+      <i>Senior AI Engineer</i><br>
+      Jun 2024 – Present<br>
+      Supervisor: Dr. Tharindu Kaluarachchi
 
-</td> </tr> <tr> <td> <img src="/images/Pekoe.png" width="100"> </td> <td>
+    </td>
+  </tr>
 
-Pekoe Pte Ltd, Singapore (Remote)</br>
-AI Engineer Intern</br>
-Jan 2023 – Jul 2023</br>
-Supervisor: Dr.Tharindu Kaluarachchi
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <img src="/images/Pekoe.png" width="140">
+    </td>
+    <td style="border: none; padding: 10px;">
 
-</td> </tr> </table>
+      <b>Pekoe Pte Ltd, Singapore (Remote)</b><br>
+      <i>AI Engineer Intern</i><br>
+      Jan 2023 – Jul 2023<br>
+      Supervisor: Dr. Tharindu Kaluarachchi
+
+    </td>
+  </tr>
+</table>
 
 ## Education
 
-<table> <tr> 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding: 10px;" width="150">
+      <img src="/images/University_of_Moratuwa_logo.png" width="140">
+    </td>
+    <td style="border: none; padding: 10px;">
 
-</td> </tr> <tr> <td> <img src="/images/University_of_Moratuwa_logo.png" width="100"> </td> <td>
+      <b>University of Moratuwa, Sri Lanka</b><br>
+      Bachelor’s in Electronics & Telecommunication Engineering<br>
+      Jan 2020 – Jun 2024<br>
+      GPA: 3.94/4.20
 
-University of Moratuwa, Sri Lanka</br>
-Bachelor’s in Electronics & Telecommunication Engineering</br>
-Jan 2020 – Jun 2024</br>
-GPA: 3.94/4.20
-
-</td> </tr> </table>
+    </td>
+  </tr>
+</table>
