@@ -26,7 +26,7 @@ body {
     content: '';
     position: absolute;
     width: 2px;
-    background: #006E6D;
+    background: #4aaef0;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -55,7 +55,7 @@ body {
     height: 16px;
     top: 48px;
     right: -8px;
-    background: #006E6D;
+    background: #4aaef0;
     border-radius: 16px;
     z-index: 1;
 }
@@ -73,12 +73,12 @@ body {
   right: 10px;
   z-index: 1;
   border: 10px solid;
-  border-color: transparent transparent transparent #006E6D;
+  border-color: transparent transparent transparent #4aaef0;
 }
 
 .container.right::before {
   left: 10px;
-  border-color: transparent #006E6D transparent transparent;
+  border-color: transparent #4aaef0 transparent transparent;
 }
 
 .container .date {
@@ -89,7 +89,7 @@ body {
     text-align: center;
     font-size: 14px;
     font-weight: bold;
-    color: #006E6D;
+    color: #4aaef0;
     text-transform: uppercase;
     letter-spacing: 1px;
     z-index: 1;
@@ -110,7 +110,7 @@ body {
     background: #ffffff;
     position: relative;
     border: 1px solid #eeeeee;
-    border-right: 5px solid #006E6D;
+    border-right: 5px solid #4aaef0;
     border-left: 5px solid #eeeeee;
     border-radius: 15px 0 0 15px;
     box-shadow: 0 0 60px rgba(0, 0, 0, .08);
@@ -118,7 +118,7 @@ body {
 
 .container.right .content {
     border-right: 5px solid #eeeeee;
-    border-left: 5px solid #006E6D;
+    border-left: 5px solid #4aaef0;
     border-radius: 0 15px 15px 0;
 }
 
@@ -126,7 +126,7 @@ body {
     margin: 0 0 10px 0;
     font-size: 18px;
     font-weight: normal;
-    color: #006E6D;
+    color: #4aaef0;
 }
 
 .container .content p {
@@ -159,7 +159,7 @@ body {
     .container.left::before,
     .container.right::before {
         left: 100px;
-        border-color: transparent #006E6D transparent transparent;
+        border-color: transparent #4aaef0 transparent transparent;
     }
     
     .container.left .date,
@@ -171,7 +171,7 @@ body {
     .container.left .content,
     .container.right .content {
         border-right: 5px solid #eeeeee;
-        border-left: 5px solid #006E6D;
+        border-left: 5px solid #4aaef0;
         border-radius: 0 15px 15px 0;
     }
 }
