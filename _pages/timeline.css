@@ -175,3 +175,47 @@ body {
         border-radius: 0 15px 15px 0;
     }
 }
+
+/* DARK MODE SUPPORT */
+@media (prefers-color-scheme: dark) {
+
+    body {
+        background: #121212;
+        color: #e0e0e0;
+    }
+
+    .timeline::after {
+        background: #66c2ff;
+    }
+
+    .container .content {
+        background: #1e1e1e;
+        border: 1px solid #333;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+    }
+
+    .container .content p {
+        color: #cccccc;
+    }
+
+    .container .content h2 {
+        color: #66c2ff;
+    }
+
+    .container::after {
+        background: #66c2ff;
+    }
+
+    .container::before {
+        border-color: transparent transparent transparent #66c2ff;
+    }
+
+    .container.right::before {
+        border-color: transparent #66c2ff transparent transparent;
+    }
+
+    .container.left .date,
+    .container.right .date {
+        color: #66c2ff;
+    }
+}
