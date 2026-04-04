@@ -11,7 +11,7 @@
 body {
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
-    background: #ffffff;
+    background: transparent;
 }
 
 .timeline {
@@ -177,45 +177,41 @@ body {
 }
 
 /* DARK MODE SUPPORT */
-@media (prefers-color-scheme: dark) {
+/* DARK MODE (Jekyll theme-aware) */
+html[data-theme="dark"] body {
+    background: transparent; /* IMPORTANT */
+}
 
-    body {
-        background: #121212;
-        color: #e0e0e0;
-    }
+html[data-theme="dark"] .timeline::after {
+    background: #66c2ff;
+}
 
-    .timeline::after {
-        background: #66c2ff;
-    }
+html[data-theme="dark"] .container .content {
+    background: #2a2a2a;
+    border: 1px solid #444;
+    box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+}
 
-    .container .content {
-        background: #1e1e1e;
-        border: 1px solid #333;
-        box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
-    }
+html[data-theme="dark"] .container .content p {
+    color: #dddddd;
+}
 
-    .container .content p {
-        color: #cccccc;
-    }
+html[data-theme="dark"] .container .content h2 {
+    color: #66c2ff;
+}
 
-    .container .content h2 {
-        color: #66c2ff;
-    }
+html[data-theme="dark"] .container::after {
+    background: #66c2ff;
+}
 
-    .container::after {
-        background: #66c2ff;
-    }
+html[data-theme="dark"] .container::before {
+    border-color: transparent transparent transparent #66c2ff;
+}
 
-    .container::before {
-        border-color: transparent transparent transparent #66c2ff;
-    }
+html[data-theme="dark"] .container.right::before {
+    border-color: transparent #66c2ff transparent transparent;
+}
 
-    .container.right::before {
-        border-color: transparent #66c2ff transparent transparent;
-    }
-
-    .container.left .date,
-    .container.right .date {
-        color: #66c2ff;
-    }
+html[data-theme="dark"] .container .date {
+    color: #66c2ff;
 }
