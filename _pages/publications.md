@@ -24,7 +24,7 @@ author_profile: true
 
     <p>
       <a href="https://arxiv.org/abs/2601.11724">[Paper]</a>
-      <!-- <a href="#">[Code]</a> -->
+      <a href="https://github.com/muditha11/SemAlign">[Code]</a> 
     </p>
   </div>
 
