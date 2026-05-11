@@ -29,3 +29,22 @@ author_profile: true
   </div>
 
 </div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+
+  <img src="/images/thesis_teaser.png" width="400" style="margin-right: 20px;">
+
+  <div>
+    <h3 style="margin: 0;">Perception module for world models</h3>
+    <p style="margin: 5px 0;"><i><b>Muditha Fernando</b>, Avishka Perera, Thilanka Rajaka, Bhagya Yasarathna</i></p>
+    <p style="margin: 5px 0;"><b>Undergraduate Thesis</b></p>
+    <p style="margin: 5px 0;">
+      A self-supervised feature extractor for monocular videos that jointly learns content, optical flow, and depth representations to produce generalized perception features for downstream world-modeling tasks.
+    </p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/14sF4ESXngm54u6jQHQjt4grgjYRqp9sU/view?usp=sharing">[Thesis Report]</a>
+    </p>
+  </div>
+
+</div>
