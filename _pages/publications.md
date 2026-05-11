@@ -35,7 +35,7 @@ author_profile: true
   <img src="/images/thesis_teaser.png" width="400" style="margin-right: 20px;">
 
   <div>
-    <h3 style="margin: 0;">Perception module for world models</h3>
+    <h3 style="margin: 0;">Perception Module for World Models</h3>
     <p style="margin: 5px 0;"><i><b>Muditha Fernando</b>, Avishka Perera, Thilanka Rajaka, Bhagya Yasarathna</i></p>
     <p style="margin: 5px 0;"><b>Undergraduate Thesis</b></p>
     <p style="margin: 5px 0;">
