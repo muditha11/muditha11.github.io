@@ -13,7 +13,7 @@ I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaa
 
 ## News
 
-- [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR'26
+- [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR'26 (Oral)
 
 
 ## Experience
