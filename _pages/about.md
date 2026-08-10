@@ -13,6 +13,8 @@ I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaa
 
 ## News
 
+- MaLDAM: Masked Localized Domain Adaptation for Malaria Detection in Low-Cost Microscopic Images, Accepted (Oral) at the HemaRAI Workshop, MICCAI 2026.
+
 - [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR'26 (Oral)
 
 
