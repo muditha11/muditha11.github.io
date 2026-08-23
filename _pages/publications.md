@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
 
-  <img src="images/maldam.png" width="400" style="margin-right: 20px;">
+  <img src="/images/maldam.png" width="400" style="margin-right: 20px;">
 
   <div>
     <h3 style="margin: 0;">MaLDAM: Masked Localized Domain Adaptation
