@@ -11,6 +11,29 @@ author_profile: true
 
 <div style="display: flex; align-items: center; margin-bottom: 30px;">
 
+  <img src="images/maldam.png" width="400" style="margin-right: 20px;">
+
+  <div>
+    <h3 style="margin: 0;">MaLDAM: Masked Localized Domain Adaptation
+for Malaria Detection in Low-Cost Microscopic
+Images</h3>
+    <p style="margin: 5px 0;"><i><b>Muditha Fernando</b>, Tishan Rathnasekara, Saeedha Nazar, Avishka Perera, Tharindu Kaluarachchi</i></p>
+    <p style="margin: 5px 0;"><b>MICCAI 2026 Workshop: HemaRAI (Oral)</b></p>
+    <p style="margin: 5px 0;">
+       Cell-aware domain adaptation framework that jointly aligns global image context and masked local cellular representations via a non-contrastive objective.
+    </p>
+
+    <p>
+      <a href="https://drive.google.com/file/d/1H-_UFqSqBYDcTzJWQ6R86dYKLfzRnSV6/view?usp=sharing">[Paper]</a>
+      <a href="https://github.com/TishanSathruwan/MaLDAM">[Code]</a>
+    </p>
+
+  </div>
+
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 30px;">
+
   <img src="/images/ssdg_teaser.png" width="400" style="margin-right: 20px;">
 
   <div>
@@ -24,8 +47,9 @@ author_profile: true
 
     <p>
       <a href="https://arxiv.org/abs/2601.11724">[Paper]</a>
-      <a href="https://github.com/muditha11/SemAlign">[Code]</a> 
+      <a href="https://github.com/muditha11/SemAlign">[Code]</a>
     </p>
+
   </div>
 
 </div>
@@ -45,6 +69,7 @@ author_profile: true
     <p>
       <a href="https://drive.google.com/file/d/14sF4ESXngm54u6jQHQjt4grgjYRqp9sU/view?usp=sharing">[Thesis Report]</a>
     </p>
+
   </div>
 
 </div>
