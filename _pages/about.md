@@ -2,7 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -11,12 +11,13 @@ I am a computer vision researcher with a strong focus on representation learning
 
 I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaai.ai/) in design and development of machine learning and deep learning systems for the tea industry.
 
+**Research Interests**: Self/Semi-supervised learning, Domain Generalization, Domain Adaptation, Robust feature learning, Vision Language Models, Medical Imaging, Fine-grained feature learning, Transfer Learning, Applications of computer vision.
+
 ## News
 
 - [MaLDAM: Masked Localized Domain Adaptation for Malaria Detection in Low-Cost Microscopic Images](https://drive.google.com/file/d/1H-_UFqSqBYDcTzJWQ6R86dYKLfzRnSV6/view?usp=sharing), Accepted (Oral) at the HemaRAI Workshop, MICCAI 2026.
 
 - [SemAlign: Language Guided Semi-supervised Domain Generalization](https://arxiv.org/abs/2601.11724) Accepted at ICPR'26 (Oral)
-
 
 ## Experience
 
@@ -33,6 +34,7 @@ I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaa
       Supervisor: Dr. Tharindu Kaluarachchi
 
     </td>
+
   </tr>
 
   <tr>
@@ -47,6 +49,7 @@ I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaa
       Supervisor: Dr. Tharindu Kaluarachchi
 
     </td>
+
   </tr>
 </table>
 
@@ -65,5 +68,6 @@ I am also an AI Engineer with 3+ years of experience at [Pekoe](https://www.teaa
       GPA: 3.94/4.20
 
     </td>
+
   </tr>
 </table>
