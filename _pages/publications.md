@@ -24,7 +24,7 @@ Images</h3>
     </p>
 
     <p>
-      <a href="https://drive.google.com/file/d/1H-_UFqSqBYDcTzJWQ6R86dYKLfzRnSV6/view?usp=sharing">[Paper]</a>
+      <a href="https://openreview.net/pdf?id=IpY0OWAC0B">[Paper]</a>
       <a href="https://github.com/TishanSathruwan/MaLDAM">[Code]</a>
     </p>
 
