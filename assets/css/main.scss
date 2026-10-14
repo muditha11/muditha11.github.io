@@ -41,3 +41,32 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+
+
+/* Visitor map positioning */
+.page__footer {
+  position: relative;
+}
+
+.page__footer-map {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  margin: 0;
+  width: 150px;
+}
+
+.page__footer-map img {
+  display: block;
+  width: 150px;
+  height: auto;
+}
+
+/* Leave room for the map on smaller screens */
+@media (max-width: 600px) {
+  .page__footer-map {
+    position: static;
+    margin: 1rem 0 0 auto;
+  }
+}
