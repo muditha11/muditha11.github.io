@@ -44,17 +44,18 @@
 
 
 
-/* Visitor map positioning */
+
+/* Align visitor map with footer content */
 .page__footer {
   position: relative;
 }
 
 .page__footer-map {
   position: absolute;
+  top: 0;
   right: 0;
-  bottom: 0;
-  margin: 0;
   width: 150px;
+  margin: 0;
 }
 
 .page__footer-map img {
@@ -63,10 +64,10 @@
   height: auto;
 }
 
-/* Leave room for the map on smaller screens */
 @media (max-width: 600px) {
   .page__footer-map {
     position: static;
     margin: 1rem 0 0 auto;
   }
 }
+
