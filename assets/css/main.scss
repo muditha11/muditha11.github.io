@@ -41,37 +41,3 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-
-
-
-
-/* Force visitor map to bottom-right of footer */
-.page__footer {
-  position: relative;
-}
-
-.page__footer .page__footer-map {
-  position: absolute;
-  top: 150px;
-  right: 0;
-  bottom: auto;
-  left: auto;
-  width: 150px;
-  margin: 0;
-  z-index: 10;
-}
-
-.page__footer .page__footer-map img {
-  display: block;
-  width: 150px;
-  height: auto;
-}
-
-/* Mobile layout */
-@media (max-width: 600px) {
-  .page__footer .page__footer-map {
-    position: static;
-    margin: 16px 0 0 auto;
-  }
-}
-
