@@ -24,7 +24,7 @@ Images</h3>
     </p>
 
     <p>
-      <a href="https://openreview.net/pdf?id=IpY0OWAC0B">[Paper]</a>
+      <a href="https://papers.miccai.org/miccai-2026-sat/HemaRAI_004.html">[Paper]</a>
       <a href="https://github.com/TishanSathruwan/MaLDAM">[Code]</a>
     </p>
 
