@@ -68,6 +68,7 @@ Images</h3>
 
     <p>
       <a href="https://drive.google.com/file/d/14sF4ESXngm54u6jQHQjt4grgjYRqp9sU/view?usp=sharing">[Thesis Report]</a>
+      <a href="https://youtu.be/apMkSU8iNI0?si=EJONocmnq-2JR4jS">[Video]</a>
     </p>
 
   </div>
