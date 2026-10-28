@@ -26,6 +26,7 @@ Images</h3>
     <p>
       <a href="https://papers.miccai.org/miccai-2026-sat/HemaRAI_004.html">[Paper]</a>
       <a href="https://github.com/TishanSathruwan/MaLDAM">[Code]</a>
+      <a href="https://docs.google.com/presentation/d/1D3bDpDC5dKcCxMAokf7gaXi7Ckj2tMPFtNCqutMf2d4/edit?usp=sharing">[Slides]</a>
     </p>
 
   </div>
@@ -48,6 +49,7 @@ Images</h3>
     <p>
       <a href="https://arxiv.org/abs/2601.11724">[Paper]</a>
       <a href="https://github.com/muditha11/SemAlign">[Code]</a>
+      <a href="https://docs.google.com/presentation/d/1HpecBO3tJKRkoQPYibOHZuVu08Vnpnh73rOtXhNHGAg/edit?usp=sharing">[Slides]</a>
     </p>
 
   </div>

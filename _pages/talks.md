@@ -34,7 +34,7 @@ author_profile: true
          rel="noopener noreferrer">
         [Video]
       </a>
-      <a href="https://docs.google.com/presentation/d/1oC5Wgu1-DQx9zEz5rGgv2KI-K7L90vtpdh2N8Irw2lg/edit?slide=id.p#slide=id.p"
+      <a href="https://docs.google.com/presentation/d/195k9LA85OxXOV_LFPsAeUydIXyQKkXmgsVm1FOds1CA/edit?usp=sharing"
          target="_blank"
          rel="noopener noreferrer">
          [Slides]
