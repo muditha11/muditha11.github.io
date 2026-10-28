@@ -23,7 +23,7 @@ author_profile: true
   <div class="talk-details">
     <h3>Swin Transformer Paper Discussion</h3>
     <p class="talk-event">
-      Advances in Machine Vision Module
+      Advances in Machine Vision Module @ UoM
     </p>
     <p>
       The Swin Transformer is a hierarchical vision transformer that uses shifted-window self-attention to efficiently capture local and global visual features, making it well-suited for image classification, object detection, and semantic segmentation.
@@ -35,6 +35,43 @@ author_profile: true
         [Video]
       </a>
       <a href="https://docs.google.com/presentation/d/1oC5Wgu1-DQx9zEz5rGgv2KI-K7L90vtpdh2N8Irw2lg/edit?slide=id.p#slide=id.p"
+         target="_blank"
+         rel="noopener noreferrer">
+         [Slides]
+      </a>
+    </p>
+  </div>
+
+</div>
+
+<div class="talk-entry">
+
+  <div class="talk-video">
+    <a href="https://youtu.be/IWsibzsXF_g"
+       target="_blank"
+       rel="noopener noreferrer">
+      <img
+        src="https://img.youtube.com/vi/IWsibzsXF_g/hqdefault.jpg"
+        alt="Presentation video thumbnail"
+        loading="lazy">
+    </a>
+  </div>
+
+  <div class="talk-details">
+    <h3>Masked AutoEncoder (MAE) Paper Discussion</h3>
+    <p class="talk-event">
+      Advances in Machine Vision Module @ UoM
+    </p>
+    <p>
+      Masked Autoencoders (MAE) are a self-supervised learning method that trains vision transformers to reconstruct randomly masked image patches, enabling them to learn rich visual representations from unlabeled images.
+    </p>
+    <p>
+      <a href="https://youtu.be/IWsibzsXF_g"
+         target="_blank"
+         rel="noopener noreferrer">
+        [Video]
+      </a>
+      <a href="https://docs.google.com/presentation/d/1vyCtPrNIhg6OqBKsZj8T2XxY_Ton0W7MMEhB6TcIiec/edit?usp=sharing"
          target="_blank"
          rel="noopener noreferrer">
          [Slides]
